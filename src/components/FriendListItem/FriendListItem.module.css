@@ -1,0 +1,27 @@
+.item{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: #ededc2a6;
+    border: 1px solid #80808030;
+    border-radius: 3px;
+    box-shadow: 5px 5px 15px 3px #0000001f;
+}
+
+.isOnline{
+    
+}
+
+.status{
+    
+}
+
+.avatar{
+    
+}
+
+.name{
+    
+}
