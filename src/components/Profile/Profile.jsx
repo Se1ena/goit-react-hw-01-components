@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import css from 'components/noname/Profile.module.css';
+import css from 'components/Profile/Profile.module.css';
 
 //{
 //"username": "Jacques Gluke",
