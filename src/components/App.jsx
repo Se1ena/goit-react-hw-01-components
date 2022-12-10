@@ -7,7 +7,6 @@ import friends from 'data/friends';
 import TransactionHistory from 'components/TransactionHistory/TransactionHistory';
 import transactions from 'data/transactions';
 
-
 export const App = () => {
   return (
     <div>
