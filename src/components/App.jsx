@@ -1,4 +1,4 @@
-import Profile from 'components/Profile/Profile';
+import Profile from 'components/noname/Profile';
 import user from 'data/user';
 import Statistics from 'components/Statistics/Statistics';
 import data from 'data/data';
